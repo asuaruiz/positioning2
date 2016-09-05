@@ -1,0 +1,22 @@
+.bigbox {
+	height: 500px;
+	width: 500px;
+	background-color: blue;
+	position: absolute;
+}
+.mediumbox {
+	height: 250px;
+	width: 250px;
+	background-color: green;
+	margin-top: 125px;
+	margin-bottom: 125px;
+	margin-left: 125px;
+	margin-right: 125px;
+}
+.smallbox {
+	height: 125px;
+	width: 125px;
+	background-color: black;
+	position:absolute;
+	top:0;
+}
